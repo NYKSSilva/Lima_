@@ -1,0 +1,17 @@
+body{
+    background-color: brown;
+}
+header{
+    width: 97.5vw;
+    height: 305px;
+    border: rgb(109, 62, 71);
+    border-style: solid;
+}
+
+nav{
+    width: 300px;
+    height: 300px;
+    border: rgb(179, 126, 126);
+    border-style: solid;
+    margin-left: 718px;
+}
