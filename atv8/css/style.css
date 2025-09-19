@@ -1,4 +1,4 @@
-/* --- Feitiços Globais --- */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,21 +6,21 @@
 }
 
 body {
-    background-color: #1a1a2e;
+    background-color: #a4a4ff;
     font-family: sans-serif;
     color: #e0e0e0;
 }
 
-/* --- Estilo do Artefato ÚNICO (ID) --- */
+
 #main-header {
     text-align: center;
     padding: 20px;
     font-size: 2em;
-    color: #ffd700; 
+    color: #b420f8; 
 }
 
 
-/* --- Magia de Layout Principal com GRID 🏰 --- */
+
 .character-selection {
     display: grid;
     grid-template-columns: 1fr 1fr; 
@@ -30,7 +30,7 @@ body {
     padding: 20px;
 }
 
-/* --- Estilo Geral das Cartas com FLEXBOX 🤸 --- */
+
 .card {
     background-color: #2a2a4e;
     border: 3px solid #a0a0c0;
@@ -39,7 +39,7 @@ body {
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease; 
 
-/* Alinhando a imagem e o título com Flex! */
+
     display: flex;
     flex-direction: column; 
     align-items: center; 
@@ -53,7 +53,7 @@ body {
     box-shadow: 0 0 15px #f0c040; 
 }
 
-/* --- O Feitiço da IMAGEM RESPONSIVA --- */
+
 .character-image {
     max-width: 100%; 
     height: auto;  
@@ -63,6 +63,6 @@ body {
 
 .character-title {
     font-size: 1.8em; 
-    color: #f0c040;
+    color: #6e5fc2;
     text-shadow: 2px 2px 4px #000; 
 }
