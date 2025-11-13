@@ -1,0 +1,17 @@
+html, body{
+    margin: 0%;
+    padding: 0%;
+}
+
+:root{
+   --rosa-claro:#FFBBFD;
+   --laranja:#E06414;
+   --amarelo-cagao:#E0A214;
+}
+
+header{
+    width:100vw ;
+    height: 12vh;
+    background: linear-gradient(350deg, var(--laranja), var(--amarelo-cagao));
+    text-align: center;
+}

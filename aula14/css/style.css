@@ -1,0 +1,31 @@
+html,body{
+    background-color: rgb(224, 224, 172);
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 50%;
+    height: 70%;
+    background-color: rgba(249, 239, 239);
+}
+
+.cfrm-login{
+    width: 80%;
+    height: 90%;
+    background-color: rgba(254, 221, 247,0.729);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.ctxt{
+    width: 90%;
+    min-width: 90%;
+    max-width: 100%;
+}

@@ -1,0 +1,20 @@
+body{
+    background-color: burlywood;
+    
+}
+
+#resp{
+    background-color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+label{
+    color:black ;
+    font-size: x-large;
+    /* text-align: center; */
+}
+#btnExibir{
+    background-color: rgb(124, 99, 66);
+    color: rgb(212, 146, 60);
+}

@@ -1,0 +1,29 @@
+.container{
+    width: 50vw;
+    height: 50vh;
+    border: 3%;
+    border-style: solid;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.a{
+    width: 40vw;
+    height: 15vh;
+    background-color: aqua;
+}
+
+.b{
+    width: 40vw;
+    height: 15vh;
+    background-color:aquamarine;
+}
+
+.c{
+    width: 40vw;
+    height: 15vh;
+    background-color:azure;
+}
