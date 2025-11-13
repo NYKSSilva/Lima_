@@ -8,12 +8,12 @@
 
 body {
   
-    background-image: url(https://images.pexels.com/photos/1671324/pexels-photo-1671324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1&#39;);
+    background-image:url(../public/img/stardewfarm.png) ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed; 
    
-    font-family: 'MedievalSharp', cursive; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
     color: #f0e6d2; 
     display: flex;
     justify-content: center;
@@ -35,7 +35,7 @@ body {
 
 header h1 {
     font-size: 2.5em;
-    color: #ffc400; 
+    color:burlywood; 
     margin-bottom: 10px;
 }
 
@@ -51,7 +51,7 @@ header p {
     background-color: #f0e6d2; 
     border: 2px solid #a07d4e;
     border-radius: 5px;
-    font-family: 'MedievalSharp', cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 1.2em;
     color: #3d2e1a; 
     text-shadow: none; 
@@ -61,7 +61,7 @@ header p {
     background-color: #8b4513;
     border: 3px solid #ffc400; 
     padding: 15px 30px;
-    font-family: 'MedievalSharp', cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 1.3em;
     cursor: pointer; 
     border-radius: 50px; 
@@ -69,15 +69,15 @@ header p {
 }
 
 #actionButton:hover {
-    background-color: #ffc400;
-    color: #8b4513;
+    background-color: #9c8233;
+    color: #cf946a;
     transform: scale(1.05); 
 }
 
 #resposta {
     margin-top: 30px;
     font-size: 1.5em;
-    color: #39ff14; 
+    color:#cf946a; 
     min-height: 50px; 
     font-weight: bold;
 }
